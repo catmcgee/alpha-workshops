@@ -48,10 +48,10 @@
     sha3 "^2.1.4"
     zod "^3.22.4"
 
-"@aztec/l1-contracts@^0.24.0":
-  version "0.24.0"
-  resolved "https://registry.yarnpkg.com/@aztec/l1-contracts/-/l1-contracts-0.24.0.tgz#e88fb166e265f751f79d2a43d7cf5c2cda12b7bf"
-  integrity sha512-3a8su++C23wojI46dB26jzGnr3a7U25CkqdvvcB2bIbs+nozuOHmgL5ut9Okfj9nNt1n0dxs5Qh3pP9QsXyyYw==
+"@aztec/l1-contracts@^0.31.0":
+  version "0.31.0"
+  resolved "https://registry.yarnpkg.com/@aztec/l1-contracts/-/l1-contracts-0.31.0.tgz#d2ed58d957732c2fc6b6eaee033746465fd5afd3"
+  integrity sha512-SJVNugH+K7CX8TA5Pj0Bbgq7Z/rxNlBosiej2Myy1KefJjZ5YIVN4JTVmveMGt60wsFsmIKrAPxey04OEFQ1Rg==
 
 "@colors/colors@1.5.0":
   version "1.5.0"

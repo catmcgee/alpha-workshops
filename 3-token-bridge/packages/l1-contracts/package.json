@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "@aztec/foundation": "^0.30.1",
-    "@aztec/l1-contracts": "^0.24.0",
+    "@aztec/l1-contracts": "^0.31.0",
     "@nomicfoundation/hardhat-ethers": "^3.0.0",
     "@nomicfoundation/hardhat-ignition": "^0.15.0",
     "@nomicfoundation/hardhat-ignition-ethers": "^0.15.0",
